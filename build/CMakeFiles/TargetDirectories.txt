@@ -1,0 +1,8 @@
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/CMakeFiles/edit_cache.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/CMakeFiles/rebuild_cache.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/src/CMakeFiles/CMake_Tutorial_lib.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/src/CMakeFiles/edit_cache.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/src/CMakeFiles/rebuild_cache.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/prog/CMakeFiles/MyExe.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/prog/CMakeFiles/edit_cache.dir
+/Users/sofiyasianiuta/Documents/NumFys/cmake_turtorial/build/prog/CMakeFiles/rebuild_cache.dir

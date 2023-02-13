@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libCMake_Tutorial_lib.a CMakeFiles/CMake_Tutorial_lib.dir/functionmod.cpp.o CMakeFiles/CMake_Tutorial_lib.dir/WPmod.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libCMake_Tutorial_lib.a
